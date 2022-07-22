@@ -12,6 +12,7 @@
     "carbon-components-react": "^7.57.4"
   },
   "devDependencies": {
-    "esbuild": "^0.14.49"
+    "esbuild": "^0.14.49",
+    "esbuild-sass-plugin": "^2.3.0"
   }
 }
